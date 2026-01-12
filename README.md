@@ -73,8 +73,4 @@ The Power BI report file included in this project (`pjoject 2 BI G.pbix`) contai
 
 Created by **Fady Gaber**
 
----
 
-## 📄 License
-
-This project is intended for educational and demonstration purposes. License can be added if required.
